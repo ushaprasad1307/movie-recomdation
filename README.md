@@ -10,8 +10,7 @@ The functionality will be directly included in the tool/webapp we already have a
 
 For obvious reasons I won't be able to provide the data used in this repo, but I will try to include some anonymized sample data, and the scripts to train and use the model.
 ## Data sources and AI methods
-Data is available in an existing database, and is continously filled with new data from users. Essentially the data is of the form "Expert E has skill S at level L".
-
+Data is available in an existing database, and is continously filled with new data from users.
 I will use some sort of item-item recommendation system, not sure about the details yet, I still have some reading and experimenation ahead of me on that topic.
 ## Challenges
 Even if there already is quite some data, it might not be enough to create good recommendations.
